@@ -146,7 +146,7 @@ const MMW_CSS = `
 `
 
 export default function MurmurationWordmark({
-  word = "flock",
+  word = "ANSHIK",
   birds = 4200,
   preset = "dusk",
   palette,
