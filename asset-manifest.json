@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BirdsCursor/static/css/main.f855e6bc.css",
+    "main.js": "/BirdsCursor/static/js/main.95a21331.js",
+    "index.html": "/BirdsCursor/index.html",
+    "main.f855e6bc.css.map": "/BirdsCursor/static/css/main.f855e6bc.css.map",
+    "main.95a21331.js.map": "/BirdsCursor/static/js/main.95a21331.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.95a21331.js"
+  ]
+}
